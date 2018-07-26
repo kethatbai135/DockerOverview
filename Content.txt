@@ -1,0 +1,14 @@
+
+
+https://pointful.github.io/docker-intro/#/20
+https://theodorosploumis.github.io/docker-presentation/#/1
+https://us.pycon.org/2016/site_media/media/tutorial_handouts/DockerSlides.pdf
+
+
+What is docker
+Docker container
+	Dockerfile
+	DockerImage
+	DockerCompose
+Docker Network
+Docker Swarm
